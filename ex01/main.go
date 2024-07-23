@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// set flags
-	sendSolF := flag.Int("sendSol", 0, "Amount of SOL to send")
+	sendSolF := flag.Int("sendSol", 0, "Amount of SOL to send (integer only, no float)")
 	fromF := flag.String("from", "", "Funding account (private key)")
 	toF := flag.String("to", "", "Solana address you want to send funds to")
 	newWalletF := flag.Bool("newWallet", false, "Generate a new wallet")
@@ -38,7 +38,7 @@ func main() {
 	}
 }
 
-// sendSol sends x lamport (testnet).
+// sendSol sends x sol (testnet). int only tho, had some weird issue with floats
 func sendSol(amt int, to, from string) error {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
