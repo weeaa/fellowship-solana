@@ -1,0 +1,10 @@
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_inline_spl-b7d4f18b84e0e990.rmeta: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/associated_token_account.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token_2022.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_inline_spl-b7d4f18b84e0e990.rlib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/associated_token_account.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token_2022.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/solana_inline_spl-b7d4f18b84e0e990.d: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/associated_token_account.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token_2022.rs
+
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/lib.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/associated_token_account.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.11/src/token_2022.rs:

@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/build/mime_guess-c801276ea7380e2b/out/mime_types_generated.rs

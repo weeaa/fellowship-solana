@@ -1,0 +1,10 @@
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libspl_token_group_interface-9d1f6367dcfee5ab.dylib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/error.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/instruction.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/state.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libspl_token_group_interface-9d1f6367dcfee5ab.rlib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/error.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/instruction.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/state.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/spl_token_group_interface-9d1f6367dcfee5ab.d: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/error.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/instruction.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/state.rs
+
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/lib.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/error.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/instruction.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.4.2/src/state.rs:

@@ -1,0 +1,10 @@
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_udp_client-3cb51a25843bb4eb.rmeta: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/udp_client.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/udp_client.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_udp_client-3cb51a25843bb4eb.rlib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/udp_client.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/udp_client.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/solana_udp_client-3cb51a25843bb4eb.d: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/udp_client.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/udp_client.rs
+
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/lib.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/mod.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/nonblocking/udp_client.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-2.0.11/src/udp_client.rs:

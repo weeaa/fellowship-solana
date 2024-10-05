@@ -1,0 +1,10 @@
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_vote_program-f775e78b810f0290.rmeta: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_processor.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_state/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_transaction.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_vote_program-f775e78b810f0290.rlib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_processor.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_state/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_transaction.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/solana_vote_program-f775e78b810f0290.d: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_processor.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_state/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_transaction.rs
+
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/lib.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_processor.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_state/mod.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.11/src/vote_transaction.rs:

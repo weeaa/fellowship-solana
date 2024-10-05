@@ -1,0 +1,10 @@
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_inline_spl-031566a3d721e483.rmeta: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/associated_token_account.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token_2022.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_inline_spl-031566a3d721e483.rlib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/associated_token_account.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token_2022.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/solana_inline_spl-031566a3d721e483.d: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/associated_token_account.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token_2022.rs
+
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/lib.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/associated_token_account.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-inline-spl-2.0.9/src/token_2022.rs:

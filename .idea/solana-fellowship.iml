@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ex04/solana_program/programs/solana_program/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex09/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex09/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ex08/big_f/rust/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ex04/solana_program/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex09/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex08/big_f/rust/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

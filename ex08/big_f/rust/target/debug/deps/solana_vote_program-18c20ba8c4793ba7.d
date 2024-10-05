@@ -1,0 +1,10 @@
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_vote_program-18c20ba8c4793ba7.rmeta: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_processor.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_state/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_transaction.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/libsolana_vote_program-18c20ba8c4793ba7.rlib: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_processor.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_state/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_transaction.rs
+
+/Users/weeaa/Desktop/solana-fellowship/ex08/target/debug/deps/solana_vote_program-18c20ba8c4793ba7.d: /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/lib.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_processor.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_state/mod.rs /Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_transaction.rs
+
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/lib.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_processor.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_state/mod.rs:
+/Users/weeaa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-vote-program-2.0.9/src/vote_transaction.rs:

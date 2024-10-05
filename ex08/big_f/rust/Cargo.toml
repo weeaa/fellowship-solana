@@ -1,0 +1,24 @@
+[package]
+name = "ex08"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+signature = "2.3.0-pre.4"
+anyhow = "1.0.87"
+solana-sdk = "2.0.9"
+solana-client = "2.0.9"
+solana-program = "2.0.9"
+spl-token = "6.0.0"
+spl-associated-token-account = "5.0.1"
+mpl-token-metadata = "4.1.2"
+tokio = { version = "1.40.0", features = ["full"] }
+serde = { version = "1.0.210", features = ["derive"] }
+serde_json = "1.0.128"
+mpl-bubblegum = "1.4.0"
+spl-account-compression = "0.3.1"
+anchor-lang = "0.30.1"
+dotenv = "0.15.0"
+base64 = "0.22.1"
+anchor-spl = "0.30.1"
+regex = "1.10.6"
